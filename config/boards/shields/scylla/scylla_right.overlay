@@ -1,0 +1,5 @@
+#include "scylla.dtsi" // Notice that the main dtsi files are included in the overlay.
+
+&default_transform {
+	col-offset = <6>;
+};
